@@ -1,0 +1,53 @@
+Daftar Struktur Lengkap File JSON (kenshiro-media)
+Total: 20 file di game/ dan 20 file di quote/
+
+A. Folder: game/ (20 File)
+
+1. brainout.json -> Array of Object: ["pertanyaan", "jawaban"]
+2. caklontong.json -> Array of Object: ["index", "soal", "jawaban", "deskripsi"]
+3. family100.json -> Array of Object: ["soal", "jawaban" (Array)]
+4. flags.json -> Array of Object: ["img", "name"]
+5. pg.json -> Array of Object: ["question", "selection" (Array), "answer"]
+6. quiz.json -> Array of Object: ["pertanyaan", "jawaban" (Array)]
+7. riddle.json -> Array of Object: ["pertanyaan", "jawaban"]
+8. verb.json -> Array of String: ["word1", "word2", ...]
+9. whatanime.json -> Array of Object: ["img", "namejp", "jawaban"]
+10. whatchar.json -> Array of Object: ["img", "name"]
+11. whateat.json -> Array of Object: ["img", "jawaban", "deskripsi"]
+12. whatgame.json -> Array of Object: ["img", "jawaban"]
+13. whatgos.json -> Array of Object: ["index", "type", "deskripsi", "jawaban"]
+14. whatkima.json -> Array of Object: ["unsur", "lambang"]
+15. whatklim.json -> Array of Object: ["index", "soal", "jawaban"]
+16. whatlyrics.json -> Array of Object: ["soal", "jawaban"]
+17. whatpic.json -> Array of Object: ["index", "img", "jawaban", "deskripsi"]
+18. whatsong.json -> Array of Object: ["title", "url"]
+19. whatword.json -> Array of Object: ["tipe", "acak", "jawaban"]
+20. whoami.json -> Array of Object: ["pertanyaan", "jawaban"]
+
+B. Folder: quote/ (20 File)
+
+1. fakta-random.json -> Object: {"kata_random": [Array of String]}
+2. gombalan.json -> Object: {"kata_random": [Array of String]}
+3. kataalam.json -> Object: {"kata_random": [Array of String]}
+4. kataanime.json -> Object: {"kata_random": [Array of String]}
+5. katabijak.json -> Object: {"kata_random": [Array of String]}
+6. katabucin.json -> Object: {"kata_random": [Array of String]}
+7. katafilosofi.json -> Object: {"kata_random": [Array of String]}
+8. katahumor.json -> Object: {"kata_random": [Array of String]}
+9. katailmuan.json -> Object: {"kata_random": [Array of String]}
+10. katajenius.json -> Object: {"kata_random": [Array of String]}
+11. katakeluarga.json -> Object: {"kata_random": [Array of String]}
+12. katamotivasi.json -> Object: {"kata_random": [Array of String]}
+13. katamutiara.json -> Object: {"kata_random": [Array of String]}
+14. katapendidikan.json -> Object: {"kata_random": [Array of String]}
+15. katapepatah.json -> Object: {"kata_random": [Array of String]}
+16. kataromantis.json -> Object: {"kata_random": [Array of String]}
+17. katasedih.json -> Object: {"kata_random": [Array of String]}
+18. kataseni.json -> Object: {"kata_random": [Array of String]}
+19. katasenja.json -> Object: {"kata_random": [Array of String]}
+20. katateknologi.json -> Object: {"kata_random": [Array of String]}
+
+-----------------------------------------
+game: https://raw.githubusercontent.com/kavionn/database/refs/heads/master/game/${game}.json
+
+quote: https://raw.githubusercontent.com/kavionn/database/refs/heads/master/quote/${quote}.json

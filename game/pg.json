@@ -1,4 +1,5 @@
-[{
+[
+   {
       "question": "Palestina terletak di benua?",
       "selection": ["Asia", "Afrika", "Eropa", "Amerika"],
       "answer": "A",
@@ -69,7 +70,8 @@
       "selection": ["Indonesia", "Turki", "Iran", "Amerika Serikat"],
       "answer": "D",
       "explanation": "Palestina telah diakui sebagai negara oleh Indonesia, Turki, Iran, dan negara-negara Arab lainnya, tetapi tidak oleh Amerika Serikat."
-   }, {
+   },
+   {
       "question": "Ibukota Israel adalah ...",
       "selection": ["Yerusalem", "Tel Aviv", "Haifa", "Jaffa"],
       "answer": "A",
@@ -113,7 +115,12 @@
    },
    {
       "question": "Israel memiliki kekuatan militer yang kuat karena ...",
-      "selection": ["Ancamannya dari negara-negara tetangga", "Perang Yom Kippur", "Perang Arab-Israel", "Perang Lebanon"],
+      "selection": [
+         "Ancamannya dari negara-negara tetangga",
+         "Perang Yom Kippur",
+         "Perang Arab-Israel",
+         "Perang Lebanon"
+      ],
       "answer": "A",
       "explanation": "Israel memiliki kekuatan militer yang kuat karena ancamannya dari negara-negara tetangga, seperti Lebanon dan Suriah."
    },
@@ -140,15 +147,28 @@
       "selection": ["Lokasinya di Timur Tengah", "Persediaan airnya", "Lapangan minyaknya", "Sumber daya alamnya"],
       "answer": "A",
       "explanation": "Israel adalah negara yang penting secara strategis karena lokasinya di Timur Tengah."
-   }, {
+   },
+   {
       "question": "Penyebab khusus yang memicu terjadinya Perang Dunia II adalah ...",
-      "selection": ["Persaingan memperebutkan wilayah Bal-kan", "Persaingan perdagangan antarnegara Eropa", "Terbunuhnya putra mahkota Austria", "Perlombaan senjata antarnegara maju", "Pembentukan blok-blok pertahanan"],
+      "selection": [
+         "Persaingan memperebutkan wilayah Bal-kan",
+         "Persaingan perdagangan antarnegara Eropa",
+         "Terbunuhnya putra mahkota Austria",
+         "Perlombaan senjata antarnegara maju",
+         "Pembentukan blok-blok pertahanan"
+      ],
       "answer": "C",
       "explanation": "Pangeran Franz Ferdinand, putra mahkota Austria-Hongaria, dibunuh oleh kelompok teroris Serbia pada 28 Juni 1914. Peristiwa ini memicu perang antara Austria-Hongaria dan Serbia, yang kemudian melibatkan negara-negara lain di Eropa dan dunia."
    },
    {
       "question": "Latar belakang meletusnya Perang Dunia II adalah ...",
-      "selection": ["Persaingan di antara negara Eropa untuk memperebutkan daerah jajahan", "Kerjasama ekonomi antarnegara Eropa", "Kekurangan sumber daya alam di Eropa", "Semakin sempitnya daerah jajahan di Asia dan Afrika", "Kebangkitan fasisme dan komunisme di Eropa"],
+      "selection": [
+         "Persaingan di antara negara Eropa untuk memperebutkan daerah jajahan",
+         "Kerjasama ekonomi antarnegara Eropa",
+         "Kekurangan sumber daya alam di Eropa",
+         "Semakin sempitnya daerah jajahan di Asia dan Afrika",
+         "Kebangkitan fasisme dan komunisme di Eropa"
+      ],
       "answer": "A",
       "explanation": "Persaingan di antara negara Eropa untuk memperebutkan daerah jajahan, yaitu wilayah Bal-kan, merupakan salah satu penyebab utama terjadinya Perang Dunia II. Selain itu, kebangkitan fasisme dan komunisme di Eropa juga menjadi faktor yang berkontribusi terhadap terjadinya perang."
    },
@@ -187,7 +207,8 @@
       "selection": ["22 Juni 1941", "23 Juni 1941", "24 Juni 1941", "25 Juni 1941"],
       "answer": "A",
       "explanation": "Uni Soviet menyerang Jerman pada tanggal 22 Juni 1941, yang merupakan awal dari Operasi Barbarossa. Operasi ini merupakan serangan besar-besaran Uni Soviet terhadap Jerman."
-   }, {
+   },
+   {
       "question": "Pada tanggal berapa Hari Kemerdekaan Indonesia diperingati?",
       "selection": ["17 Agustus", "1 Maret", "1 Juni", "1 Desember"],
       "answer": "A",
@@ -258,7 +279,8 @@
       "selection": ["40.075 km", "40.070 km", "40.072 km", "40.076 km"],
       "answer": "C",
       "explanation": "Panjang lintasan garis khatulistiwa adalah 40.072 kilometer."
-   }, {
+   },
+   {
       "question": "Hasil dari 5 + 6 = ?",
       "selection": ["7", "8", "9", "10"],
       "answer": "A",
@@ -335,7 +357,8 @@
       "selection": ["240", "250", "260", "270"],
       "answer": "A",
       "explanation": "20 x 12 = 240"
-   }, {
+   },
+   {
       "question": "Apakah yang dimaksud dengan atom?",
       "selection": [
          "Atom adalah unit dasar materi yang tidak dapat dibagi lagi secara kimiawi.",
@@ -377,7 +400,12 @@
    },
    {
       "question": "Fungsi getElementById di JavaScript akan:",
-      "selection": ["mengutip semua elemen HTML didalam dokumen HTML tersebut", "merujuk elemen HTML dengan identitas sesuai dengan nilai argumen fungsi", "membuat sebuah elemen HTML dengan nama sesuai argumen fungsi", "membuat suatu elemen HTML dengan atribut ID bernilai sesuai argumen fungsi"],
+      "selection": [
+         "mengutip semua elemen HTML didalam dokumen HTML tersebut",
+         "merujuk elemen HTML dengan identitas sesuai dengan nilai argumen fungsi",
+         "membuat sebuah elemen HTML dengan nama sesuai argumen fungsi",
+         "membuat suatu elemen HTML dengan atribut ID bernilai sesuai argumen fungsi"
+      ],
       "answer": "B",
       "explanation": "Fungsi getElementById digunakan untuk merujuk elemen HTML dengan identitas sesuai dengan nilai argumen fungsi."
    },
@@ -389,7 +417,12 @@
    },
    {
       "question": "Kode JavaScript untuk mengatur warna forecolor yang benar dibawah ini adalah:",
-      "selection": ["document.getElementById('teks').style.color='blue';", "document.getElementById('teks').css.color='blue';", "document.getElementById('teks').style.color=blue;", "document.getElementById('teks').css.color=blue;"],
+      "selection": [
+         "document.getElementById('teks').style.color='blue';",
+         "document.getElementById('teks').css.color='blue';",
+         "document.getElementById('teks').style.color=blue;",
+         "document.getElementById('teks').css.color=blue;"
+      ],
       "answer": "A",
       "explanation": "Kode document.getElementById('teks').style.color='blue'; adalah kode yang benar untuk mengatur warna forecolor."
    },
@@ -401,10 +434,16 @@
    },
    {
       "question": "Untuk menggunakan fungsi tersebut penggalan kode yang benar dibawah ini adalah:",
-      "selection": ["terima=hitung(); document.getElementById('demo').innerHTML=terima;", "terima=hitung(); document.getElementById('demo').nodeText=terima;", "terima=hitung(); document.getElementById('demo').nodeElement=terima;", "terima=hitung(); document.getElementById('demo').nodeValue=terima;"],
+      "selection": [
+         "terima=hitung(); document.getElementById('demo').innerHTML=terima;",
+         "terima=hitung(); document.getElementById('demo').nodeText=terima;",
+         "terima=hitung(); document.getElementById('demo').nodeElement=terima;",
+         "terima=hitung(); document.getElementById('demo').nodeValue=terima;"
+      ],
       "answer": "A",
       "explanation": "Penggalan kode terima=hitung(); document.getElementById('demo').innerHTML=terima; adalah penggalan kode yang benar untuk menggunakan fungsi hitung."
-   }, {
+   },
+   {
       "question": "Perintah SQL untuk membuat database adalah?",
       "selection": ["CREATE DATABASE", "CREATE TABLE", "CREATE DB", "CREATE DATABASE TABLE"],
       "answer": "A",
@@ -481,15 +520,26 @@
       "selection": ["DATE", "DATETIME", "WHERE", "AND"],
       "answer": "B",
       "explanation": "Perintah DATETIME digunakan untuk menampilkan data dari tabel berdasarkan tanggal tertentu."
-   }, {
+   },
+   {
       "question": "DBMS adalah singkatan dari?",
-      "selection": ["Data Manipulation System", "Database Manipulation System", "Data Management System", "Database Management System"],
+      "selection": [
+         "Data Manipulation System",
+         "Database Manipulation System",
+         "Data Management System",
+         "Database Management System"
+      ],
       "answer": "D",
       "explanation": "DBMS adalah singkatan dari Database Management System."
    },
    {
       "question": "Salah satu tujuan atau manfaat penggunaan DBMS adalah?",
-      "selection": ["Akses data lebih mudah dan cepat", "Dapat menangani data-data dalam jumlah besar", "Membuat pekerjaan menjadi kompleks", "Menghilangkan hasil duplikasi maupun inkonsistensi data"],
+      "selection": [
+         "Akses data lebih mudah dan cepat",
+         "Dapat menangani data-data dalam jumlah besar",
+         "Membuat pekerjaan menjadi kompleks",
+         "Menghilangkan hasil duplikasi maupun inkonsistensi data"
+      ],
       "answer": "A",
       "explanation": "Akses data lebih mudah dan cepat adalah salah satu tujuan atau manfaat penggunaan DBMS."
    },
@@ -501,7 +551,12 @@
    },
    {
       "question": "Kepanjangan dari SQL adalah?",
-      "selection": ["Structured Question Language", "Strong Question Language", "Structured Query Language", "Strong Query Language"],
+      "selection": [
+         "Structured Question Language",
+         "Strong Question Language",
+         "Structured Query Language",
+         "Strong Query Language"
+      ],
       "answer": "C",
       "explanation": "SQL adalah singkatan dari Structured Query Language."
    },
@@ -519,7 +574,12 @@
    },
    {
       "question": "Berikut perintah SQL untuk menampilkan kolom nama pada tabel siswa yang nilainya diakhiri dengan kata 'Adam'?",
-      "selection": ["SELECT * FROM siswa WHERE nama LIKE '%Adam'", "SELECT nama FROM siswa WHERE nama LIKE 'Adam%'", "SELECT nama FROM siswa WHERE nama LIKE '*Adam'", "SELECT nama FROM siswa WHERE nama LIKE 'Adam'"],
+      "selection": [
+         "SELECT * FROM siswa WHERE nama LIKE '%Adam'",
+         "SELECT nama FROM siswa WHERE nama LIKE 'Adam%'",
+         "SELECT nama FROM siswa WHERE nama LIKE '*Adam'",
+         "SELECT nama FROM siswa WHERE nama LIKE 'Adam'"
+      ],
       "answer": "A",
       "explanation": "Perintah SQL untuk menampilkan kolom nama pada tabel siswa yang nilainya diakhiri dengan kata 'Adam' adalah SELECT * FROM siswa WHERE nama LIKE '%Adam'."
    },
@@ -531,7 +591,12 @@
    },
    {
       "question": "Perintah SQL untuk menghapus data bernama 'Dimas' di dalam tabel siswa adalah?",
-      "selection": ["DELETE nama='Rofig' FROM siswa", "DELETE FROM siswa WHERE nama='Rofig'", "REMOVE nama='Rofig' FROM siswa", "REMOVE FROM siswa nama='Rofig'"],
+      "selection": [
+         "DELETE nama='Rofig' FROM siswa",
+         "DELETE FROM siswa WHERE nama='Rofig'",
+         "REMOVE nama='Rofig' FROM siswa",
+         "REMOVE FROM siswa nama='Rofig'"
+      ],
       "answer": "B",
       "explanation": "Perintah SQL untuk menghapus data bernama 'Dimas' di dalam tabel siswa adalah DELETE FROM siswa WHERE nama='Rofig'."
    },
@@ -546,7 +611,8 @@
       "selection": ["LAST JOIN", "INNER JOIN", "JOINED", "INSIDE JOIN"],
       "answer": "C",
       "explanation": "Untuk membuat relasi atau hubungan antar tabel menggunakan perintah JOIN."
-   }, {
+   },
+   {
       "question": "Node.js adalah?",
       "selection": ["Kerangka kerja web", "Kerangka kerja aplikasi", "Kerangka kerja server", "Kerangka kerja umum"],
       "answer": "C",
